@@ -1,6 +1,6 @@
 # Cafe Menu Webpage - CSS Design
 
-<img src="https://github.com/pulemojatau/CafeMenu/blob/main/menu.png" alt="Cafe Menu Screenshot" width="550" height="650"/>
+<img src="https://github.com/pulemojatau/CafeMenu/blob/main/menu.png" alt="Cafe Menu Screenshot" width="580" height="650"/>
 
 This project is part of the freeCodeCamp CSS course(Responsive Web Design), where we designed a responsive cafe menu webpage. The project focuses on CSS styling techniques such as applying colors, fonts, and layout structures to create a user-friendly interface.
 
@@ -27,8 +27,8 @@ This project is built with plain HTML and CSS, and it’s a static webpage that 
 
 ## Installation Usage
 
-- Open the `index.html` file in a web browser to view the Cat Photo App.
-- Browse through various cat photos and enjoy!
+- Open the `index.html` file in a web browser to view the Cafe Menu Webpage.
+
 
 ## Contributing
    
