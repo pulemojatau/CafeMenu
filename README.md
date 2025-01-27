@@ -1,6 +1,6 @@
 # Cafe Menu Webpage - CSS Design
 
-<img src="https://github.com/pulemojatau/CafeMenu/blob/main/menu.png" alt="Cafe Menu Screenshot" width="500" height="650"/>
+<img src="https://github.com/pulemojatau/CafeMenu/blob/main/menu.png" alt="Cafe Menu Screenshot" width="550" height="650"/>
 
 This project is part of the freeCodeCamp CSS course(Responsive Web Design), where we designed a responsive cafe menu webpage. The project focuses on CSS styling techniques such as applying colors, fonts, and layout structures to create a user-friendly interface.
 
